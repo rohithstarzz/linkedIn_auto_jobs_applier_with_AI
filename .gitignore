@@ -13,3 +13,5 @@ chrome_profile
 answers.json
 data*
 *virtual
+venv
+data_folder/
